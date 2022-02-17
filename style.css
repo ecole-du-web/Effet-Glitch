@@ -42,15 +42,15 @@ body {
 }
 .glitchedAnim:nth-child(2) {
   color: #f03e3e;
-  animation: skewAnim 10s infinite;
+  animation: skewAnim 3s infinite;
 }
 .glitchedAnim:nth-child(3) {
   color: #3df0cf;
-  animation: glitchAnim2 10s infinite;
+  animation: glitchAnim2 3s infinite;
 }
 .glitchedAnim:nth-child(4) {
   color: #f1f1f1;
-  animation: glitchAnim1 10s infinite;
+  animation: glitchAnim1 3s infinite;
 }
 
 .txt-info {
